@@ -203,7 +203,7 @@ h4,
 h5,
 h6{
 	margin:0 0 20px 0;
-	color:#FFFFFF;
+	color:#7F8289;
 	font-weight:300;
 	font-family: 'Titillium Web', sans-serif;
 	line-height:1.5em;
@@ -628,7 +628,7 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .page {
-	background: #2F3238;
+	background: #ffffff;
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
@@ -682,17 +682,17 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a {
-	color: #7F8289;
+	color: rgb(176, 196, 132);
 	font-size: 16px;
 	display: block;	
 }
 
 .work-nav #filters li a:hover {
-	color: #FFFFFF;
+	color: rgb(217, 94, 96);
 }
 
 .work-nav #filters li a.selected {
-	color: #DE5E60;
+	color: rgb(217, 94, 96);
 }
 
 #thumbs {
