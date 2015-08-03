@@ -203,7 +203,7 @@ h4,
 h5,
 h6{
 	margin:0 0 20px 0;
-	color:#7F8289;
+	color:#73788C;
 	font-weight:300;
 	font-family: 'Titillium Web', sans-serif;
 	line-height:1.5em;
@@ -553,7 +553,7 @@ nav#menu #menu-nav li a {
 
 nav#menu #menu-nav li.current a,
 nav#menu #menu-nav li a:hover {
-	color: #DE5E60;
+	color: #D95B5B;
 }
 
 
@@ -682,7 +682,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a {
-	color: rgb(176, 196, 132);
+	color: #7F8289;
 	font-size: 16px;
 	display: block;	
 }
